@@ -26,7 +26,7 @@ FirstApp.propTypes = {
 }
 
 FirstApp.defaultProps = {
-    portNumber: 3000
+    portNumber: 3000,
 }
 
 export default FirstApp;

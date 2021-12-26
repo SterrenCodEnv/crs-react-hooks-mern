@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 
-const CounterApp = ({year}) => {
+const CounterApp = ({year = 2021}) => {
 
     const [counter, setCounter] = useState(0);
     const handleAdd = () => setCounter((c) => c + 1) ;

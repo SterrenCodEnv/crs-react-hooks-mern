@@ -6,5 +6,5 @@ import './index.css'
 
 const divRoot = document.querySelector('#app');
 
-// ReactDOM.render( <FirstApp portMessage='Listening on port' />, divRoot);
+// ReactDOM.render( <FirstApp portMessage='Listening on port' portNumber='3000' />, divRoot);
 ReactDOM.render( <CounterApp year={2021} />, divRoot);

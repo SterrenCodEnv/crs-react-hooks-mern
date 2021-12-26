@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in FirstApp.js Show data JSON 1`] = `
+<Fragment>
+  <h2>
+    Data:
+  </h2>
+  <pre>
+    {
+    "firstName": "Juan",
+    "lasName": "Sterren",
+    "email": "sterrenjuanignacio@gmail.com",
+    "age": 30,
+    "job": "Software Developer"
+}
+  </pre>
+  <p>
+    Listening on port
+     
+    3000
+  </p>
+</Fragment>
+`;
