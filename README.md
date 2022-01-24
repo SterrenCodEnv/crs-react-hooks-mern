@@ -113,7 +113,7 @@
 
 ## Progreso del curso
 
-- [x] Sección 1 - Introduccón
+- [x] Sección 1 - Introducción
 
 - [x] Sección 2 - Conceptos Generales
 
@@ -137,7 +137,7 @@
 
 - [ ] Sección 12 - Pruebas unitarias y de integración
 
-- [ ] Seccion 13 - Repositorio Custom Hooks
+- [ ] Sección 13 - Repositorio Custom Hooks
 
 - [ ] Sección 14 - HeroesApp (SPA)
 
@@ -175,11 +175,11 @@
 
 - [ ] Sección 31 - Fin de curso y bonus
 
-- [ ] Sección 32 - Archivado HeroesApp (Actualización) 
+- [ ] Sección 32 - Archivado HeroesApp (Actualización)
 
-- [ ] Sección 33 - Archivado Rutas Protegidas HeroesApp (Actualización) 
+- [ ] Sección 33 - Archivado Rutas Protegidas HeroesApp (Actualización)
 
-- [ ] Sección 34 - Test Archivado Rutas Protegidas HeroesApp (Actualización) 
+- [ ] Sección 34 - Test Archivado Rutas Protegidas HeroesApp (Actualización)
 
   
 
@@ -201,25 +201,25 @@ Descargar el repositorio con el método a elección haciendo click en el botón 
 
 Una vez instaladas las dependencias y descargado el repositorio.
 
-1. Instalar los paquetes de NPM detallados en el archivo package.json corriendo el siguiente comando en consola/terminal dentro del carpeta principal del repositorio. 
+1. Instalar los paquetes de NPM detallados en el archivo package.json corriendo el siguiente comando en consola/terminal dentro del carpeta principal del repositorio.
 
    ```sh
    npm install
    ```
 
-2. Para correr la aplicacion en modo desarrollo:
+2. Para correr la aplicación en modo desarrollo:
 
    ```sh
    npm install
    ```
 
-3. Para correr la aplicacion en modo test. 
+3. Para correr la aplicación en modo test.
 
    ```sh
    npm test
    ```
 
-4. Para generar el build (producción). 
+4. Para generar el build (producción).
 
    ```sh
    npm run build
