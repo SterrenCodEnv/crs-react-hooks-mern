@@ -89,7 +89,7 @@
     └── src/
         └── tests/
 04-gif-expert-app/
-	└── src/
+    └── src/
         ├── helpers/
         ├── hooks/
         └── tests/
