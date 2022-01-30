@@ -199,7 +199,7 @@ Descargar el repositorio con el método a elección haciendo click en el botón 
   npm install npm@latest -g
   ```
 
-### Installation
+### Instalaciones
 
 Una vez instaladas las dependencias y descargado el repositorio.
 
