@@ -189,7 +189,7 @@
 
 Descargar el repositorio con el método a elección haciendo click en el botón "Code▼".
 
-### Requisito previo
+### Requisitos previos
 
 - Antes de inicializar el repositorio es recomendable instalar las [siguientes dependencias](https://gist.github.com/Klerith/4a4abfd88a88b2d1f16efd95fea41362).
 
