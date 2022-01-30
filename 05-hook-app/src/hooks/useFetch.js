@@ -23,15 +23,24 @@ export const useFetch = (url) => {
     });
 
     fetch(url).then((resp) => {
-      resp.json().then((data) => {
-        if (isMount.current) {
+      resp
+        .json()
+        .then((data) => {
+          if (isMount.current) {
+            setState({
+              data,
+              loading: false,
+              error: null,
+            });
+          }
+        })
+        .catch(() => {
           setState({
-            data,
+            data: null,
             loading: false,
-            error: null,
+            error: "Data could not be loaded",
           });
-        }
-      });
+        });
     });
   }, [url]);
 
