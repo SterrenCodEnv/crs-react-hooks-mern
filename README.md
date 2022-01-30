@@ -106,7 +106,9 @@
         |   ├── 08-useReducer/
         |   └── 09-useContext/
         ├── helpers/
-        └── hooks/
+        ├── hooks/
+        └── tests/
+            └── hooks/
 ```
 
 
@@ -135,9 +137,9 @@
 
 - [x] Sección 11 - useContext (Hook)
 
-- [ ] Sección 12 - Pruebas unitarias y de integración
+- [x] Sección 12 - Pruebas unitarias y de integración
 
-- [ ] Sección 13 - Repositorio Custom Hooks
+- [x] Sección 13 - Repositorio Custom Hooks
 
 - [ ] Sección 14 - HeroesApp (SPA)
 
