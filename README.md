@@ -1,9 +1,10 @@
 <p align="center">
   <a href="https://reactjs.org">
-    <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" alt="Logo" width=360 height=auto>
+    <img src="https://img-b.udemycdn.com/course/480x270/3096364_6113_3.jpg" alt="Logo" width=480 height=auto>
   </a>
 
   <h3 align="center">React: De cero a experto ( Hooks y MERN )</h3>
+  <h5 align="center">Duración: 49hs</h5>
 
   <p align="center">
     <b>Udemy Instructor:</b> Fernando Herrera
