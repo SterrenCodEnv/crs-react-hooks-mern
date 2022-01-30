@@ -4,7 +4,7 @@
   </a>
 
   <h3 align="center">React: De cero a experto ( Hooks y MERN )</h3>
-  <h5 align="center">Duración: 49hs</h5>
+  <h4 align="center">Duración: 49hs</h4>
 
   <p align="center">
     <b>Udemy Instructor:</b> Fernando Herrera
