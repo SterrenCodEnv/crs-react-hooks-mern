@@ -110,6 +110,24 @@
         ├── hooks/
         └── tests/
             └── hooks/
+06-repo-hooks
+    ├── useCounter/
+    ├── useFetch/
+    └── useForm/
+07-heroes-app/
+    └── src/
+        ├── components/
+        |   ├── dc/
+        |   ├── hero/
+        |   ├── login/
+        |   ├── marvel/
+        |   ├── search/
+        |   └── ui/
+        ├── data/
+        ├── helpers/
+        ├── hooks/
+        ├── routers/
+        └── tests/
 ```
 
 
@@ -142,7 +160,7 @@
 
 - [x] Sección 13 - Repositorio Custom Hooks
 
-- [ ] Sección 14 - HeroesApp (SPA)
+- [X] Sección 14 - HeroesApp (SPA)
 
 - [ ] Sección 15 - Protección de rutas
 
