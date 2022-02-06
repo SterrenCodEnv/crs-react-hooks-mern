@@ -162,11 +162,11 @@
 
 - [X] Sección 14 - HeroesApp (SPA)
 
-- [ ] Sección 15 - Protección de rutas
+- [X] Sección 15 - Protección de rutas
 
-- [ ] Sección 16 - HeroesApp (Test)
+- [X] Sección 16 - HeroesApp (Test)
 
-- [ ] Sección 17 - Imágenes
+- [X] Sección 17 - Imágenes
 
 - [ ] Sección 18 - JournalApp (SASS, estructura y diseño)
 
