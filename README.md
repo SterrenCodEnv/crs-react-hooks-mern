@@ -168,7 +168,7 @@
 
 - [X] Sección 17 - Imágenes
 
-- [ ] Sección 18 - JournalApp (SASS, estructura y diseño)
+- [X] Sección 18 - JournalApp (SASS, estructura y diseño)
 
 - [ ] Sección 19 - Redux (Conceptos)
 
