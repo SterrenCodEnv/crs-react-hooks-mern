@@ -50,8 +50,46 @@
 ## Estructura del repositorio
 
 ```text
-01-intro/
-02-js/
+.
+├── index.html
+├── package.json
+├── src
+│   ├── 01-useState
+│   │   ├── CounterApp.jsx
+│   │   └── CounterWithCustomHook.jsx
+│   ├── 02-useEffect
+│   │   ├── Message.jsx
+│   │   ├── SimpleForm.jsx
+│   │   └── SimpleFormWithCustomHook.jsx
+│   ├── 03-examples
+│   │   ├── Error.jsx
+│   │   ├── index.js
+│   │   ├── Loading.jsx
+│   │   ├── MultipleCustomHooks.jsx
+│   │   └── Quote.jsx
+│   ├── 04-useRef
+│   │   └── FocusScreen.jsx
+│   ├── 05-useLayoutEffect
+│   │   └── Layout.jsx
+│   ├── 06-memos
+│   │   ├── CallbackHook.jsx
+│   │   ├── MemoHook.jsx
+│   │   ├── Memorize.jsx
+│   │   ├── Result.jsx
+│   │   └── ShowIncrement.jsx
+│   ├── 07-memo-taks
+│   │   ├── Child.jsx
+│   │   └── Parent.jsx
+│   ├── hooks
+│   │   ├── index.js
+│   │   ├── useCounter.jsx
+│   │   ├── useFetch.jsx
+│   │   └── useForm.jsx
+│   ├── HooksApp.jsx
+│   ├── index.css
+│   └── main.jsx
+├── vite.config.js
+└── yarn.lock
 ```
 
 ## Progreso del curso
@@ -59,12 +97,12 @@
 - [X] Sección 1 - Introducción
 - [X] Sección 2 - Conceptos Generales
 - [X] Sección 3 - JavaScript Moderno (Introducción)
-- [ ] Sección 4 - Primeros pasos
-- [ ] Sección 5 - Pruebas unitarias y de integración
-- [ ] Sección 6 - GifExpertApp (Aplicación)
-- [ ] Sección 7 - GifExpertApp (Build)
-- [ ] Sección 8 - GifExpertApp (Testing)
-- [ ] Sección 9 - Hooks Generales
+- [X] Sección 4 - Primeros pasos
+- [X] Sección 5 - Pruebas unitarias y de integración
+- [X] Sección 6 - GifExpertApp (Aplicación)
+- [X] Sección 7 - GifExpertApp (Build)
+- [X] Sección 8 - GifExpertApp (Testing)
+- [X] Sección 9 - Hooks Generales
 - [ ] Sección 10 - useReducer (Hook)
 - [ ] Sección 11 - useContext (Hook)
 - [ ] Sección 12 - Pruebas unitarias y de integración
