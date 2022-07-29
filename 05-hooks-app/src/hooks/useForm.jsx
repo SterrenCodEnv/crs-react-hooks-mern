@@ -11,12 +11,11 @@ export const useForm = (initialFormValues = {}) => {
   };
 
   const onResetForm = () => {
-    console.log('BORRA');
-
     setFormState(initialFormValues);
   };
 
   return {
+    ...formState,
     formState,
     onInputChange,
     onResetForm,
