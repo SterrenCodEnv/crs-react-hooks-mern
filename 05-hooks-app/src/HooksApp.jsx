@@ -1,3 +1,4 @@
+import { BrowserRouter } from 'react-router-dom';
 // import { CounterApp } from './01-useState/CounterApp';
 // import { CounterWithCustomHook } from './01-useState/CounterWithCustomHook';
 // import { SimpleForm } from './02-useEffect/SimpleForm';
@@ -9,7 +10,8 @@
 // import { MemoHook } from './06-memos/MemoHook';
 // import { CallbackHook } from './06-memos/CallbackHook';
 // import { Parent } from './07-memo-taks/Parent';
-import { TodoApp } from './08-useReducer/TodoApp';
+// import { TodoApp } from './08-useReducer/TodoApp';
+import { Main } from './09-useContext/Main';
 
 export const HooksApp = () => {
   return (
@@ -31,7 +33,11 @@ export const HooksApp = () => {
             {/* <MemoHook /> */}
             {/* <CallbackHook /> */}
             {/* <Parent /> */}
-            <TodoApp />
+            {/* <TodoApp /> */}
+
+            <BrowserRouter>
+              <Main />
+            </BrowserRouter>
           </li>
         </ul>
       </div>
