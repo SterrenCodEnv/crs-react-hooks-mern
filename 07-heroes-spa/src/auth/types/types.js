@@ -1,0 +1,5 @@
+// actions types
+export const types = {
+  login: 'LOGIN',
+  logout: 'LOGOUT',
+};
